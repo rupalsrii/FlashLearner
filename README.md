@@ -119,8 +119,4 @@ yarn start
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. Make sure to follow the code style and include tests for any new features.
 
 
-## Contact
 
-For any questions or feedback, feel free to reach out:
-
-- **Email**: mitali.dixit04@gmail.com
